@@ -1,0 +1,13 @@
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+einops
+python-telegram-bot
+google-api-python-client
+requests
+beautifulsoup4
+huggingface_hub
+trafilatura
+torch
+nest_asyncio
