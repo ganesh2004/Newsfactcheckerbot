@@ -39,6 +39,8 @@ A Telegram bot that uses the Mistral-7B LLM and Google Search to fact-check news
 *   Google Cloud API Key & Custom Search Engine ID
 *   Hugging Face User Access Token
 *   CUDA-enabled GPU (Recommended for the LLM)
+  or
+just run it in colab just by uploading the notebook file(You will still have to get your  keys)
 
 **2. Clone & Install:**
 
